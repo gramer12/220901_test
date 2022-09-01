@@ -2,6 +2,6 @@
 
 int main (){
 
-	printf("jello");
+	printf("jello 무당벌레");
 	return -1;
 }
